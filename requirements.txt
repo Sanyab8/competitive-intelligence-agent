@@ -1,0 +1,6 @@
+anthropic
+googlesearch-python
+requests
+beautifulsoup4
+reportlab
+python-dotenv
